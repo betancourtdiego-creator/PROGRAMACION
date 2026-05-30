@@ -1,0 +1,32 @@
+
+ Cifras 2023 
+
+Microsoft: 11000
+Apple: 5100
+Google: 5200
+Warner: 5400
+Disney: 4500
+
+ Cifras 2024 
+
+Microsoft: 12900
+Apple: 5600
+Google: 6600
+Warner: 8800
+Disney: 7500
+
+ Cifras 2025 
+
+Microsoft: 12000
+Apple: 9400
+Google: 10300
+Warner: 10800
+Disney: 9900
+
+ TOTAL YEARS: 
+
+Microsoft: 35900
+Apple: 20100
+Google: 22100
+Warner: 25000
+Disney: 21900
